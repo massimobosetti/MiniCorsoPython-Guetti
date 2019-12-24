@@ -10,4 +10,4 @@ Il codice sorgente Latex è scaricabile al seguente [repository Github](https://
 
 ## Documenti utili
 1. [Tutorial per principianti](https://github.com/massimobosetti/MiniCorsoPython-Guetti/blob/master/Documenti/tutorial%20principianti.pdf) - Tutorial relaizzato da Josh Consigliati.
-2. {Manual](https://github.com/massimobosetti/MiniCorsoPython-Guetti/blob/master/Documenti/manuale.pdf) - Manuale fatto da Aurora Martina, Angelo Raffaele Meo, Clotilde Moro e Mario Scovazzi
+2. [Manuale](https://github.com/massimobosetti/MiniCorsoPython-Guetti/blob/master/Documenti/manuale.pdf) - Manuale fatto da Aurora Martina, Angelo Raffaele Meo, Clotilde Moro e Mario Scovazzi
